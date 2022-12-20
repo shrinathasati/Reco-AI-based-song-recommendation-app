@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Reco</string>
+
+    <string name="SPOTIFY_API_HOST">spotify23.p.rapidapi.com</string>
+    <string name="SPOTIFY_API_KEY">53e9e05590msh11fbce8abd30f25p180b06jsnce8656f6991f</string>
+
+    <string name="back4app_server_url">https://parseapi.back4app.com/</string>
+    <string name="back4app_app_id">QGmTRZMYhRvC4AxXly0EzjRr5soJSVkAYOd76BXQ</string>
+    <string name="back4app_client_key">3opM0HdmVhWJzDgy4v0dEFIA2p52m73x0koNHiJG</string>
+
+    <string name="tv_title1">Ask the Reco</string>
+    <string name="tv_title2">Enjoy the music</string>
+    <string name="tv_title3">Save the time</string>
+
+    <string name="tv_description1">Start a chat and get free song recommendations</string>
+    <string name="tv_description2">enjoy the songs depending on your mood</string>
+    <string name="tv_description3">get freedom from daily song hunting</string>
+
+    <string name="imgDesc_slideImage">onBoarding image</string>
+
+    <string name="btn_next">Next</string>
+
+    <string name="imgDesc_appLogo">app logo</string>
+
+    <string name="sign_in">Sign in</string>
+    <string name="or_sign_in_with">- Or sign in with -</string>
+    <string name="login_to_your_account">Login to your Account</string>
+    <string name="don_t_have_an_account">Don\'t have an account?</string>
+
+    <string name="sign_up">Sign Up</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+
+    <string name="create_your_account">Create your Account</string>
+    <string name="or_sign_up_with">- Or sign up with -</string>
+    <string name="skip">Skip</string>
+
+    <string name="message_hint">Type your message</string>
+    <string name="send_button">send button</string>
+    <string name="msg_no_response">Sorry, No response from your side</string>
+    <string name="msg_try_new">Lets try something new</string>
+    <string name="msg_liked_the_song">Did you liked the song?</string>
+    <string name="msg_want_similar">want  more similar songs?</string>
+    <string name="msg_try_new1">Want something new?</string>
+    <string name="msg_thanks">Thanks, Nice to talk to you, Wish things went on a little longer</string>
+    <string name="track_banner">track banner</string>
+    <string name="msg_mood">What kind of song do you want to hear?</string>
+    <string name="msg_intro">Hi,\nI\'m Reco, your personal bot\nLet\'s listen to some songs</string>
+    <string name="msg_recoIntro">Hi, I am Reco an AI based music recommendation chatbot developed by Sidharth Mudgil</string>
+</resources>

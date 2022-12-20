@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="slideTitle_textSize">36sp</dimen>
+    <dimen name="slideDescription_textSize">24sp</dimen>
+    <dimen name="slideDesc_width">320dp</dimen>
+    <dimen name="slideDesc_height">70dp</dimen>
+    <dimen name="pagerTool_height">200dp</dimen>
+    <dimen name="cornerRadius_nextBtn">20dp</dimen>
+    <dimen name="textSize_nextBtn">22sp</dimen>
+    <dimen name="indicatorSize">12dp</dimen>
+    <dimen name="slide_margin">5dp</dimen>
+    <dimen name="slideImg_height">470dp</dimen>
+    <dimen name="slideDesc_padding">8dp</dimen>
+
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <dimen name="signIn_signUp_cornerRadius">18dp</dimen>
+    <dimen name="signIn_signUp_width">0dp</dimen>
+    <dimen name="signIn_signUp_height">0dp</dimen>
+    <dimen name="signIn_signUp_textSize">18sp</dimen>
+    <dimen name="signInSignUpPrompt_textSize">24sp</dimen>
+
+    <dimen name="card_cornerRadius">10dp</dimen>
+    <dimen name="card_elevation">4dp</dimen>
+    <dimen name="card_width">0dp</dimen>
+    <dimen name="card_height">0dp</dimen>
+    <dimen name="alternateTV_textSize">18sp</dimen>
+
+    <dimen name="textInputLayout_elevation">4dp</dimen>
+    <dimen name="textInputLayout_height">0dp</dimen>
+    <dimen name="textInputLayout_width">0dp</dimen>
+
+    <dimen name="appLogo_width">0dp</dimen>
+    <dimen name="appLogo_height">0dp</dimen>
+
+    <dimen name="signUpTV_textSize">18sp</dimen>
+
+    <dimen name="max_chat_bubble_length">300dp</dimen>
+
+    <dimen name="default_input_text_size">16sp</dimen>
+    <dimen name="default_message_text_size">14sp</dimen>
+    <dimen name="default_timestamp_text_size">10sp</dimen>
+
+    <dimen name="card_chatCornerRadius">12dp</dimen>
+    <dimen name="card_chatElevation">0dp</dimen>
+
+    <dimen name="message_lineSpacing">4dp</dimen>
+    <dimen name="message_marginBottom">8dp</dimen>
+    <dimen name="message_maxWidth">260dp</dimen>
+    <dimen name="message_sidePadding">12dp</dimen>
+    <dimen name="message_paddingTop">8dp</dimen>
+    <dimen name="message_textSize">18sp</dimen>
+
+    <dimen name="chatOption_marginStart">4dp</dimen>
+    <dimen name="chatOption_layoutWidth">200dp</dimen>
+    <dimen name="chatOption_layoutHeight">40dp</dimen>
+    <dimen name="chatOption_marginBottom">2dp</dimen>
+    <dimen name="chatOption_padding">8dp</dimen>
+
+    <dimen name="songItem_cornerRadius">12dp</dimen>
+    <dimen name="songItem_padding">4dp</dimen>
+    <dimen name="songArtist_textSize">14sp</dimen>
+    <dimen name="songName_textSize">18sp</dimen>
+    <dimen name="imageView_size">64dp</dimen>
+    <dimen name="song_maxWidth">260dp</dimen>
+    <dimen name="chatRight_marginStart">16dp</dimen>
+    <dimen name="chatRight_marginEnd">72dp</dimen>
+    <dimen name="song_layoutPaddingStart">4dp</dimen>
+    <dimen name="song_layoutPaddingEnd">14dp</dimen>
+</resources>
